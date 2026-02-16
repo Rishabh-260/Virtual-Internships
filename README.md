@@ -2,21 +2,21 @@
 
 A React application built with Vite for the take-home assignment.
 
-## 🚀 Deployed URL
+## Deployed URL
 
 Live demo: [https://virtual-internships.vercel.app/](https://virtual-internships.vercel.app/)
 
-## 📦 Repository
+## Repository
 
 GitHub: [https://github.com/Rishabh-260/Virtual-Internships](https://github.com/Rishabh-260/Virtual-Internships)
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 - Node.js
 - npm package manager
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -53,7 +53,7 @@ The optimized build will be created in the `dist` folder.
 npm run preview
 ```
 
-## 💻 Technologies Used
+## Technologies Used
 
 ### Frontend
 - **React**
@@ -63,7 +63,7 @@ npm run preview
 - **Vite**
 - **@vitejs/plugin-react**
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Virtual Internships/
@@ -79,7 +79,7 @@ Virtual Internships/
 └── README.md            # Project documentation
 ```
 
-## 📝 Available Scripts
+## Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Create production build
